@@ -8,7 +8,7 @@ Final project for the Consensys Blockchain bootcamp 2021. The aim was to create 
 
 The frontend has been deployed on netlify, and can be interacted with by connecting a Metamask wallet with either a Ganache or Ropsten testnet. 
 
-View it live here: [MyFiles Drive](https://#/)
+View it live here: [MyFiles Drive](https://hopeful-torvalds-dade87.netlify.app/)
 
 ## Project Directory Structure
 
