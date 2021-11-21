@@ -25,7 +25,7 @@ View it live here: [MyFiles Drive](https://#/)
 - Truffle v5.4.11 
 - Ganache
 - NPM
-- `git checkout master`
+- `git checkout main`
 
 ### Contracts
 
