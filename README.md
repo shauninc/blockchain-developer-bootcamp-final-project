@@ -47,10 +47,14 @@ View it live here: [MyFiles Drive](https://hopeful-torvalds-dade87.netlify.app/)
 
 ### Setup your wallet 
 
-Connect your development metamask wallet to Ropsten and obtain some funds at 
+Connect your development metamask wallet to the Ropsten Network and obtain some test funds at 
 https://faucet.ropsten.be/
 
-### Environment variables needed for running project on Ropsten Testnet 
+Visit the live site deployed on Netflify: [MyFiles Drive](https://hopeful-torvalds-dade87.netlify.app/)
+
+That should be sufficient to interact and use the dapp on the testnet. If you want to redeply the contract follow the step below. 
+
+### Add Environment Variables 
 
 Create a ```.env``` file and add the following details from your infura account and ropsten affiliated wallet to it: 
 
